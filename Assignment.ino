@@ -1,5 +1,5 @@
 int startValue = 5;
-byte ledPin = 13;
+int ledPin = 13;
  
 void flashLED(int times){
   while(times > 0){
